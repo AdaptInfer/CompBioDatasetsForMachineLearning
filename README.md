@@ -95,6 +95,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |Name | Description | Comments |
 |:-:|---|---|
 |[National Population Health Survey](http://www.statcan.gc.ca/eng/survey/household/3225)| Longitudinal Survey that collects health information via surveys every two years. | |
+|[Longevity World Cup](https://longevityworldcup.com/api/data/athletes)| Public biological-age competition data with participant-submitted blood biomarkers, chronological age, PhenoAge/Bortz rankings, proof links, and crowd-age fields. | JSON API, CORS-enabled; includes repeated submissions for some athletes and public leaderboard context. |
 
 ## Protein Structure
 |Name | Description | Comments |
