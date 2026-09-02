@@ -32,6 +32,7 @@ This list is a work in progress, please submit a pull request for any dataset yo
 |[PharmacoGenomics DB](https://www.pharmgkb.org/)	|	| |
 |[ProteomeXChange](http://www.proteomexchange.org/)| | |
 |[BeatAML](https://www.nature.com/articles/s41586-018-0623-z)| whole-exome sequencing, RNA sequencing and analyses of ex vivo drug sensitivity | 672 tumour specimens collected from 562 patients |
+|[siRNA Data Grabber](https://pypi.org/project/sirna-data-grabber/)| siRNA knockdown data built for Machine Learning | 17,000+ siRNAs across 100+ genes |
 
 ## Single-cell Data
 |Name | Description | Comments |
